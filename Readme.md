@@ -8,6 +8,10 @@
 
 connect-session-knex is an [express-session](https://github.com/expressjs/session) store backed by PostgreSQL, MySQL, MariaDB, MSSQL, Oracle or SQLite3, via the [knex.js](http://knexjs.org/) library.
 
+## Maintenance Status
+
+⚠️ This project is receiving minimal maintenance due to personal time constraints and also I am longer doing much Node development. ⚠️
+
 ## Installation
 
 ```sh
